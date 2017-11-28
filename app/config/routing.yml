@@ -2,6 +2,3 @@ l_corp_infra:
     resource: "@LCorpInfraBundle/Resources/config/routing.yml"
     prefix:   /home
 
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
