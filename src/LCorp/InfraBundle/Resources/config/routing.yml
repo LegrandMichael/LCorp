@@ -1,3 +1,3 @@
-l_corp_infra_homepage:
-    path:     /
-    defaults: { _controller: LCorpInfraBundle:Default:index }
+l_corp_infra_employees:
+    path:      /employees
+    defaults: { _controller: LCorpInfraBundle:Employees:index }
